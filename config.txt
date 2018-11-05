@@ -1,6 +1,6 @@
 token=NTA4Nzk4NjYyODAyMTQ1Mjkx.DsJH5g.S0bZsL_KC2Uot9yNzJmBk_mzDLM
 owner=482944293791727618
 prefix=F
-game=Type F
+game=
 stayinchannel=true
 songinstatus=true
